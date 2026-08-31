@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://githubmaldito.github.io/silencebrokenby/sitemap.xml
